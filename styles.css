@@ -52,10 +52,4 @@
     text-decoration: none;
     border-radius: 5px;
 }
-
-/* Responsividade */
-@media (max-width: 600px) {
-    .container {
-        padding: 20px;
-    }
 }
